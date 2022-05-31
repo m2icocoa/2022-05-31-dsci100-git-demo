@@ -9,3 +9,5 @@ We can clone our project down into our home folder.
 Use the https URL.
 
 To create a PAT you go to settings > developer settings > Personal Access Token
+
+YAY!
